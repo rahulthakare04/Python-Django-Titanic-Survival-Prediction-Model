@@ -8,6 +8,13 @@ This project is a web application built with Python and Django that predicts the
 - **Survival Prediction**: Receive a prediction on whether the passenger would have survived.
 - **Model Training Script**: Includes scripts to train and update the machine learning model.
 
+
+## Video Execution
+
+
+
+https://github.com/user-attachments/assets/f5335139-93db-47b6-8ba0-fd19eca01b89
+
 ## Installation
 
 1. **Clone the Repository**:
